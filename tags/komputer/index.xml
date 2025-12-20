@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komputer on Hugo Narrow</title>
+    <link>http://localhost:1313/tags/komputer/</link>
+    <description>Recent content in Komputer on Hugo Narrow</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/komputer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sistem Komputer</title>
+      <link>http://localhost:1313/posts/sistem-komputer/</link>
+      <pubDate>Mon, 02 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/sistem-komputer/</guid>
+      <description>&lt;h1 id=&#34;berpikir-komputasional&#34;&gt;Berpikir Komputasional&lt;/h1&gt;&#xA;&lt;p&gt;Berpikir komputasional adalah suatu cara berpikir logis, sistematis, dan terstruktur yang digunakan untuk memahami serta menyelesaikan masalah secara efektif. Pendekatan ini tidak selalu berkaitan dengan pemrograman atau penggunaan komputer, melainkan menekankan pada bagaimana seseorang menganalisis masalah, menyederhanakannya, dan menyusun solusi yang dapat diterapkan secara berulang. Dengan berpikir komputasional, seseorang dilatih untuk melihat masalah secara rasional, tidak terburu-buru, dan berdasarkan langkah-langkah yang jelas.&lt;/p&gt;&#xA;&lt;p&gt;Dalam berpikir komputasional terdapat beberapa komponen utama yang saling berkaitan. Pertama, dekomposisi, yaitu kemampuan memecah masalah yang kompleks menjadi bagian-bagian kecil agar lebih mudah dipahami dan diselesaikan. Kedua, pengenalan pola, yaitu proses mengidentifikasi kesamaan atau pola dari masalah-masalah yang pernah dihadapi sehingga solusi sebelumnya dapat dimanfaatkan kembali. Ketiga, abstraksi, yaitu kemampuan memilah informasi yang penting dan mengabaikan detail yang tidak relevan agar fokus tetap pada inti permasalahan. Keempat, algoritma, yaitu penyusunan langkah-langkah logis dan berurutan sebagai panduan penyelesaian masalah.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
